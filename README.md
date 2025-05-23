@@ -1,7 +1,7 @@
 <h1>Eyecamera</h1>
 
-<img src="https://github.com/emelyagr/Eyecamera/blob/main/LogoEyecamera.png" class="center" width="350" height="350"> 
-Eyecamera — программа, замаскированная под ускоритель YouTube, для автоматического создания снимков экрана и их отправки на Вашу электронную почту.
+<img src="https://github.com/emelyagr/Eyecamera/blob/main/LogoEyecamera.png" class="center" width="300" height="350"> 
+Eyecamera — программа для автоматического создания снимков с камеры и их отправки на Вашу электронную почту.
 
 <h2>Использование</h2>
 
